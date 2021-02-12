@@ -1,5 +1,5 @@
 # hello-world
 first repository
 
-puts "Hello Wolrd!"
+puts "Hello World!"
 salut ça va ?
